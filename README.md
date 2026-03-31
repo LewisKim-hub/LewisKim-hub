@@ -1,7 +1,9 @@
 ## Hi there 👋  
 👍🏻 Economics + AI | 데이터와 경제의 연결점에서  
 실질적인 가치를 만드는 김인수입니다. 👩🏻‍💻  
-
+## 💬 One More Thing
+> "아이디어는 많지만, 실행하는 사람은 적습니다.  
+저는 그 간극을 줄이는 사람이 되고 싶습니다."
 ---
 
 ## 🚀 About Me
@@ -81,11 +83,7 @@
 ---
 
 ## 📫 Contact
-- 📷 Instagram: @[your_id  ](https://www.instagram.com/soo_222nn/)
-- Blog: 
+- 📷 Instagram: https://www.instagram.com/soo_222nn/
+- 📝 Blog: https://blog.naver.com/soookimm
 
 ---
-
-## 💬 One More Thing
-> "아이디어는 많지만, 실행하는 사람은 적습니다.  
-저는 그 간극을 줄이는 사람이 되고 싶습니다."
