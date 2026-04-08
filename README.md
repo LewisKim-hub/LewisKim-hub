@@ -16,10 +16,17 @@
 
 ## 🔥 Key Experiences
 
-### 🌊 Coral Bridge | 인공 산호초 프로젝트
+### 🌊 Startup Experience | Coral Bridge | 인공 산호초 프로젝트
 - 3D 프린팅 + 폐패각 재활용을 활용한 해양 생태 복원 프로젝트  
-- 기술과 환경 문제를 연결한 창업 아이디어  
-- *2025.05 ~ 진행 중*
+- 기술과 환경 문제를 연결한 창업 아이디어
+- 학생 창업유망팀 300+ 본선 진출  
+- 해양수산 창업 콘테스트 본선 진출  
+- *2025.05 ~ 12*
+
+---
+
+### 📈 Marketing  
+- IT 마케팅 동아리 ‘오랑캐’ 콘텐츠 제작
 
 ---
 
@@ -38,20 +45,14 @@
 
 ---
 
-### 📈 Marketing & Startup Experience
-- 학생 창업유망팀 300+ 본선 진출  
-- 해양수산 창업 콘테스트 본선 진출  
-- IT 마케팅 동아리 ‘오랑캐’ 콘텐츠 제작  
-
----
-
 ## 🌱 Social & Environmental Impact
 
 - 🌍 제주연합 환경동아리 ‘Re:Earth’  
   → 사무국장 / 대외협력 국장  
-  → ESG 플로깅 및 환경 캠페인 기획  
+  → ESG 플로깅 및 환경 캠페인 기획
+  → UNIQLO, 제주 MBC, KB 국민은행 플로깅 협업
 
-- 🏛 제주청년원탁회의  
+- 🏛 제주청년원탁회의(환경분과)
   → 환경 정책 제안 및 논의 참여  
 
 ---
@@ -85,5 +86,5 @@
 ## 📫 Contact
 - 📷 Instagram: https://www.instagram.com/soo_222nn/
 - 📝 Blog: https://blog.naver.com/soookimm
-
+- 📧 E-mail: kiskorea2001@gmail.com
 ---
